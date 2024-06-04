@@ -3,7 +3,7 @@
 ## Overleaf版
 [@MilknoCandy](https://github.com/MilknoCandy) 贡献的分章节版本。可以更好地对论文的各章节进行管理。包括了论文主体、封面、扉页和附录部分，使用了单独的样式文件。
 
-请在这个[Overleaf项目](https://www.overleaf.com/read/xcsmmdmghtps#3a2d48)查看，使用文档包括在内容中。
+请在这个[Overleaf项目](https://www.overleaf.com/read/xcsmmdmghtps#3a2d48)查看，使用文档包括在内容中。登录Overleaf账号后，可以加入该项目，在Shared with you中，对该项目进行Copy即可编辑，也可下载.zip文件在本地编辑和编译。
 ## 页面格式
 遵循学校格式设置页边距和页眉，对行间距采用近似值在`\linespread`中进行了设置以匹配Word格式中的1.25倍行距。对扉页和正文页分别使用了两种不同的页面格式，并分开进行页码编码。
 ## 摘要
