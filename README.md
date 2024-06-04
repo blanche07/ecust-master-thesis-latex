@@ -1,7 +1,7 @@
 # 华东理工大学硕士学位论文Latex模板
 基本参照研究生学位论文撰写格式的统一要求，正文为小四号宋体。推荐使用*Overleaf*在线编辑器进行编译，编译方式为XeLatex。参考文献使用Biblatex包，参照GB/T 7714-2015格式和华东理工大学硕士学位论文进行修改。
 ## Overleaf版
-@MilknoCandy 贡献的分章节版本。可以更好地对论文的各章节进行管理。包括了论文主题、封面、扉页和附录部分。
+[@MilknoCandy](https://github.com/MilknoCandy) 贡献的分章节版本。可以更好地对论文的各章节进行管理。包括了论文主体、封面、扉页和附录部分，使用了单独的样式文件。
 
 请在这个[Overleaf项目](https://www.overleaf.com/read/xcsmmdmghtps#3a2d48)查看，使用文档包括在内容中。
 ## 页面格式
