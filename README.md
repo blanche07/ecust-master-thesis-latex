@@ -1,9 +1,13 @@
 # 华东理工大学硕士学位论文Latex模板
 基本参照研究生学位论文撰写格式的统一要求，正文为小四号宋体。推荐使用*Overleaf*在线编辑器进行编译，编译方式为XeLatex。参考文献使用Biblatex包，参照GB/T 7714-2015格式和华东理工大学硕士学位论文进行修改。
 ## Overleaf版
-[@MilknoCandy](https://github.com/MilknoCandy) 贡献的分章节版本。可以更好地对论文的各章节进行管理。包括了论文主体、封面、扉页和附录部分，使用了单独的样式文件。
+*Overleaf*提供了编译和可视化编辑器功能，可以预览模板生成的pdf文件。登录Overleaf账号后，可以加入项目，在Shared with you中，对该项目进行Copy即可编辑，也可下载.zip文件在本地编辑和编译。
 
-请在这个[Overleaf项目](https://www.overleaf.com/read/xcsmmdmghtps#3a2d48)查看，使用文档包括在内容中。登录Overleaf账号后，可以加入该项目，在Shared with you中，对该项目进行Copy即可编辑，也可下载.zip文件在本地编辑和编译。
+- [@MilknoCandy](https://github.com/MilknoCandy) 贡献的分章节版本。可以更好地对论文的各章节进行管理。包括了论文主体、封面、扉页和附录部分，使用了单独的样式文件。
+
+请在这个[Overleaf项目](https://www.overleaf.com/read/xcsmmdmghtps#3a2d48)查看，使用文档包括在内容中。
+
+- 本github仓库的*Overleaf*版本在[该链接](https://www.overleaf.com/read/cpxbnpbxpphf#d8751a)查看。
 ## 页面格式
 遵循学校格式设置页边距和页眉，对行间距采用近似值在`\linespread`中进行了设置以匹配Word格式中的1.25倍行距。对扉页和正文页分别使用了两种不同的页面格式，并分开进行页码编码。
 ## 摘要
